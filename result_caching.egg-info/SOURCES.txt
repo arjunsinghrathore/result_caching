@@ -1,0 +1,9 @@
+README.md
+setup.py
+result_caching/__init__.py
+result_caching.egg-info/PKG-INFO
+result_caching.egg-info/SOURCES.txt
+result_caching.egg-info/dependency_links.txt
+result_caching.egg-info/not-zip-safe
+result_caching.egg-info/requires.txt
+result_caching.egg-info/top_level.txt
